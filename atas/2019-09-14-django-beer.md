@@ -11,7 +11,7 @@ Temperatura:
 
 ## Fervura
 
-Água 27l, tempo 1h10
+Água 27l, tempo 1h10, (24cm no caldeirão de fervura)
 
 Lúpulos e adições
 
