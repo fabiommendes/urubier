@@ -26,6 +26,7 @@ Levedura:
 
 Temperatura
 * Objetivo 22C, condicionamento 12C
+* Inoculação 32C
 * Brix de fermentação: 14.5 (álcool potencial: 7,9%)
 
 ---
@@ -50,7 +51,7 @@ Lúpulos e adições
 * Magnum 16% - 21g, 1h10min 
 * Willamette 6,3% - 7g - 10min
 * Willamette 6,3% - 20g - 0min
-* Cascade 6,6% - 20g - 0min
+* Cascade 6,6% (Centennial) - 20g - 0min
 
 ## Fermentar
 
@@ -58,3 +59,4 @@ Levedura:
 
 Temperatura
 * Objetivo 22C, condicionamento 12C
+* Inoculação 29C
