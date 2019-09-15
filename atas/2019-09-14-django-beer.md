@@ -16,9 +16,9 @@ Temperatura:
 Lúpulos e adições
 
 * East Kent Golding 5,5% - 30g, 1h10min 
-* Syrian Golding 5,5% - 10g - 10min
+* Styrian/Savinjski Golding 5,5% - 10g - 10min
 * Açúcar cana: 300g - 5min
-* Syrian Golding 5,5% - 20g - 0min
+* Styria/Savinjski Golding 5,5% - 20g - 0min
 
 ## Fermentar
 
@@ -26,6 +26,7 @@ Levedura:
 
 Temperatura
 * Objetivo 22C, condicionamento 12C
+* Brix de fermentação: 14.5 (álcool potencial: 7,9%)
 
 ---
 
